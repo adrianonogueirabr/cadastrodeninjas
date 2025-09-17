@@ -10,6 +10,6 @@ public class Controller {
 
     @GetMapping("/boasVindas")
     public String boasVindas(){
-        return "Essa é minha primeira mensagem nessa rota - aula 1";
+        return "Essa é minha primeira mensagem nessa rota - Branch";
     }
 }
