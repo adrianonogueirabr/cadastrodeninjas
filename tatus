@@ -1,0 +1,50 @@
+[33mcommit e2afd4eec76631c20574b7a41741029e8d2eb7d6[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: 430af83 2667caa
+Author: Adriano Nogueira <adrianonogueira22@gmail.com>
+Date:   Thu Sep 18 20:30:02 2025 -0400
+
+    Merge branch 'main' of https://github.com/adrianonogueirabr/cadastrodeninjas
+
+[33mcommit 430af83630955fdca148d498ce8fd50fec577f7e[m
+Author: Adriano Nogueira <adrianonogueira22@gmail.com>
+Date:   Thu Sep 18 20:26:14 2025 -0400
+
+    Cria uma entidade no banco de dados apartir do NinjaModel
+
+[33mcommit 2667caa393fe1d4c44bdcca79d3bec40ec922bda[m
+Merge: 35ac702 7f74508
+Author: Adriano Nogueira do Nascimento <71515318+adrianonogueirabr@users.noreply.github.com>
+Date:   Tue Sep 16 20:42:21 2025 -0400
+
+    Merge pull request #3 from adrianonogueirabr/Feature-2
+    
+    segundo commit via terminal
+    
+    closes #1
+
+[33mcommit 7f74508ba88cc7380d12dfbc6bf08fa822444071[m[33m ([m[1;31morigin/Feature-2[m[33m, [m[1;32mFeature-2[m[33m)[m
+Author: Adriano Nogueira <adrianonogueira22@gmail.com>
+Date:   Tue Sep 16 20:40:15 2025 -0400
+
+    segundo commit via terminal
+
+[33mcommit 35ac7022c6453d5a6466951218a068ec93053307[m
+Merge: bc87b79 c65af22
+Author: Adriano Nogueira do Nascimento <71515318+adrianonogueirabr@users.noreply.github.com>
+Date:   Tue Sep 16 20:35:09 2025 -0400
+
+    Merge pull request #1 from adrianonogueirabr/Feature-1
+    
+    Primeiro Commit via comando arquivo controller
+
+[33mcommit c65af22e61efcd11e0e04032ae41ff0744c54d62[m[33m ([m[1;31morigin/Feature-1[m[33m)[m
+Author: Adriano Nogueira <adrianonogueira22@gmail.com>
+Date:   Tue Sep 16 20:25:56 2025 -0400
+
+    Primeiro Commit via comando arquivo controller
+
+[33mcommit bc87b79954f8e14cb7aaf126ce17cc0cc6750aa6[m
+Author: Adriano Nogueira <adrianonogueira22@gmail.com>
+Date:   Tue Sep 16 20:09:20 2025 -0400
+
+    primeiro commit

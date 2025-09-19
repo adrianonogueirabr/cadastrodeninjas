@@ -10,6 +10,6 @@ public class NinjaController {
 
     @GetMapping("/boasVindas")
     public String boasVindas(){
-        return "Essa é minha primeira mensagem nessa rota";
+        return "Essa é minha primeira mensagem nessa rota - Branch";
     }
 }
